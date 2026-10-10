@@ -34,4 +34,5 @@ flutter test
 
 - `main` is the stable branch.
 - Use feature branches for development.
+- Keep pull requests focused and include a short summary of the change.
 - Link commits and pull requests to the corresponding Jira ticket.
